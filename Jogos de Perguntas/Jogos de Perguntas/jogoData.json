@@ -1,0 +1,149 @@
+{
+  "temas": [
+    {
+      "nome": "Java",
+      "perguntas": [
+        {
+          "tituloPergunta": "Qual palavra-chave é usada para criar uma classe em Java?",
+          "altenativas": ["function", "class", "define", "object"],
+          "respostaCorreta": 1
+        },
+        {
+          "tituloPergunta": "Qual método é o ponto de entrada de um programa Java?",
+          "altenativas": ["start()", "init()", "run()", "main()"],
+          "respostaCorreta": 3
+        },
+        {
+          "tituloPergunta": "Qual tipo de dado armazena números inteiros em Java?",
+          "altenativas": ["double", "boolean", "int", "char"],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "O que significa JVM?",
+          "altenativas": [
+            "Java Visual Method",
+            "Java Variable Manager",
+            "Java Virtual Machine",
+            "Java Version Model"
+          ],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Qual símbolo encerra uma instrução em Java?",
+          "altenativas": [",", ".", ":", ";"],
+          "respostaCorreta": 3
+        }
+      ]
+    },
+    {
+      "nome": "Kotlin",
+      "perguntas": [
+        {
+          "tituloPergunta": "Qual palavra-chave declara uma variável imutável em Kotlin?",
+          "altenativas": ["var", "let", "const", "val"],
+          "respostaCorreta": 3
+        },
+        {
+          "tituloPergunta": "Quem é o principal criador do Kotlin?",
+          "altenativas": ["Google", "Apple", "JetBrains", "Microsoft"],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Qual palavra-chave é usada para declarar uma função em Kotlin?",
+          "altenativas": ["function", "fun", "def", "method"],
+          "respostaCorreta": 1
+        },
+        {
+          "tituloPergunta": "Como declarar uma variável mutável em Kotlin?",
+          "altenativas": [
+            "val nome = \"Ana\"",
+            "const nome = \"Ana\"",
+            "var nome = \"Ana\"",
+            "let nome = \"Ana\""
+          ],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Kotlin é totalmente interoperável com qual linguagem?",
+          "altenativas": ["Swift", "C#", "Python", "Java"],
+          "respostaCorreta": 3
+        }
+      ]
+    },
+    {
+      "nome": "Python",
+      "perguntas": [
+        {
+          "tituloPergunta": "Qual palavra-chave é usada para criar uma função em Python?",
+          "altenativas": ["function", "fun", "def", "lambda"],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Como se escreve um comentário de uma linha em Python?",
+          "altenativas": [
+            "// comentário",
+            "<!-- comentário -->",
+            "# comentário",
+            "/* comentário */"
+          ],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Qual tipo representa verdadeiro ou falso em Python?",
+          "altenativas": ["int", "bool", "str", "float"],
+          "respostaCorreta": 1
+        },
+        {
+          "tituloPergunta": "Qual função exibe algo no console em Python?",
+          "altenativas": ["show()", "echo()", "console.log()", "print()"],
+          "respostaCorreta": 3
+        },
+        {
+          "tituloPergunta": "Python é conhecido principalmente por ser:",
+          "altenativas": [
+            "Compilado apenas",
+            "De baixo nível",
+            "Complexo e verboso",
+            "Simples e legível"
+          ],
+          "respostaCorreta": 3
+        }
+      ]
+    },
+    {
+      "nome": "Swift",
+      "perguntas": [
+        {
+          "tituloPergunta": "Qual empresa desenvolveu a linguagem Swift?",
+          "altenativas": ["Google", "Microsoft", "Apple", "Amazon"],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Qual palavra-chave declara uma variável mutável em Swift?",
+          "altenativas": ["let", "var", "const", "val"],
+          "respostaCorreta": 1
+        },
+        {
+          "tituloPergunta": "Qual palavra-chave cria uma constante em Swift?",
+          "altenativas": ["val", "static", "let", "final"],
+          "respostaCorreta": 2
+        },
+        {
+          "tituloPergunta": "Swift é mais utilizado para qual plataforma?",
+          "altenativas": ["Android", "Web", "Windows", "iOS"],
+          "respostaCorreta": 3
+        },
+        {
+          "tituloPergunta": "Como se declara uma função em Swift?",
+          "altenativas": [
+            "fun minhaFuncao()",
+            "def minhaFuncao()",
+            "func minhaFuncao()",
+            "function minhaFuncao()"
+          ],
+          "respostaCorreta": 2
+        }
+      ]
+    }
+  ]
+}
